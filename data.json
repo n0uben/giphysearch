@@ -1,0 +1,39 @@
+{
+    "startedDateTime": "2020-08-15T19:09:20.921Z",
+    "clientIPAddress": "185.104.186.203",
+    "method": "GET",
+    "url": "http://mockbin.com/request",
+    "httpVersion": "HTTP/1.1",
+    "cookies": {
+        "ajs_anonymous_id": "\"747381aa-2fa8-4672-9497-5f5fcaca8c6d\""
+    },
+    "headers": {
+        "host": "mockbin.com",
+        "connection": "close",
+        "x-forwarded-for": "185.104.186.203, 3.12.247.135",
+        "x-forwarded-proto": "http",
+        "x-forwarded-host": "mockbin.com",
+        "x-forwarded-port": "80",
+        "x-real-ip": "185.104.186.203",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:79.0) Gecko/20100101 Firefox/79.0",
+        "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8",
+        "accept-language": "fr,fr-FR;q=0.8,en-US;q=0.5,en;q=0.3",
+        "accept-encoding": "gzip, deflate, br",
+        "upgrade-insecure-requests": "1",
+        "if-none-match": "W/\"36d1-JZxuf0joWlyYCST6YHrU3kYDuvk\"",
+        "cookie": "ajs_anonymous_id=%22747381aa-2fa8-4672-9497-5f5fcaca8c6d%22",
+        "x-request-id": "101d3bbd-faec-40b8-9f0a-ae19e94a8862",
+        "via": "1.1 vegur",
+        "connect-time": "0",
+        "x-request-start": "1597518560919",
+        "total-route-time": "0"
+    },
+    "queryString": {},
+    "postData": {
+        "mimeType": "application/octet-stream",
+        "text": "",
+        "params": []
+    },
+    "headersSize": 789,
+    "bodySize": 0
+}
