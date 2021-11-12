@@ -1,7 +1,7 @@
 const searchButton = document.querySelector("#button");
 const limit = 25; // nbre arrays renvoyés par giphy
 
-const giphyAPI = "http://api.giphy.com/v1/gifs/search?api_key=HBcyYfaZuAWw5nusNtT6OmvvQrDPwCOe&q="
+const giphyAPI = "https://api.giphy.com/v1/gifs/search?api_key=HBcyYfaZuAWw5nusNtT6OmvvQrDPwCOe&q="
 
 searchButton.addEventListener('click', searchGif);
 
